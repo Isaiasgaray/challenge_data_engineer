@@ -10,8 +10,8 @@ función debe permitir que:
 - Se permita la descarga de archivos como csv.
 
 ## 2. QA
--Hacer análisis descriptivo y control de datos con Python.
--Explicar hallazgos y posibles problemas en un Jupyter Notebook o archivo con el código. Proponer posibles soluciones de forma escrita y/o profundizando en el video.
+- Hacer análisis descriptivo y control de datos con Python.
+- Explicar hallazgos y posibles problemas en un Jupyter Notebook o archivo con el código. Proponer posibles soluciones de forma escrita y/o profundizando en el video.
 
 ## 3. Modelado de datos
 - Partiendo de la salida generada en el punto anterior (QA) armar el modelo de datos.
