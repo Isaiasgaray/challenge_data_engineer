@@ -1,0 +1,15 @@
+[INFO] | 2023-10-16 14:10:15 | file s3_download.py | line 44: Conexion exitosa al bucket desafio-rkd
+[INFO] | 2023-10-16 14:10:16 | file s3_download.py | line 13: disney_plus_titles.csv descargado con exito del bucket desafio-rkd
+[INFO] | 2023-10-16 14:10:17 | file s3_download.py | line 13: netflix_titles.csv descargado con exito del bucket desafio-rkd
+[INFO] | 2023-10-16 14:10:27 | file s3_download.py | line 44: Conexion exitosa al bucket desafio-rkd
+[ERROR] | 2023-10-16 14:10:27 | file s3_download.py | line 15: Error al descargar noexiste.csv del bucket desafio-rkd: An error occurred (404) when calling the HeadObject operation: Not Found
+[INFO] | 2023-10-16 14:10:38 | file s3_download.py | line 44: Conexion exitosa al bucket desafio-rkd
+[ERROR] | 2023-10-16 14:10:38 | file s3_download.py | line 15: Error al descargar disney_plus.csv del bucket desafio-rkd: An error occurred (404) when calling the HeadObject operation: Not Found
+[ERROR] | 2023-10-16 14:10:49 | file s3_download.py | line 46: No se pudo establecer conexion al bucket bucket: An error occurred (403) when calling the HeadBucket operation: Forbidden
+[INFO] | 2023-10-16 16:18:13 | file s3_download.py | line 44: Conexion exitosa al bucket desafio-rkd
+[INFO] | 2023-10-16 16:18:14 | file s3_download.py | line 13: disney_plus_titles.csv descargado con exito del bucket desafio-rkd
+[INFO] | 2023-10-16 16:19:45 | file s3_download.py | line 44: Conexion exitosa al bucket desafio-rkd
+[INFO] | 2023-10-16 16:19:46 | file s3_download.py | line 13: disney_plus_titles.csv descargado con exito del bucket desafio-rkd
+[INFO] | 2023-10-16 16:20:13 | file s3_download.py | line 44: Conexion exitosa al bucket desafio-rkd
+[ERROR] | 2023-10-16 16:20:13 | file s3_download.py | line 15: Error al descargar noexiste.csv del bucket desafio-rkd: An error occurred (404) when calling the HeadObject operation: Not Found
+[ERROR] | 2023-10-16 16:20:22 | file s3_download.py | line 46: No se pudo establecer conexion al bucket noexiste: An error occurred (403) when calling the HeadBucket operation: Forbidden
